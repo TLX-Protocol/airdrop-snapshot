@@ -12,7 +12,7 @@ Token share: 52.5%
 
 Number of eligible addresses: 415
 
-Description: Liquidation points for being liquidated on Synthetix perps V1 or V2 were claimable on the TLX website or directly through the [liquidation points claimer contract](https://optimistic.etherscan.io/address/0x4a1ee35f7a41b72c65ac429ec92c1221be78404c). The claiming period ended on 2024-04-05 12:00:00 UTC.
+Description: Addresses that claimed liquidation points for being liquidated on Synthetix perps V1 or V2. Points were claimable on the [TLX website](https://tlx.fi/) or directly through the [liquidation points claimer contract](https://optimistic.etherscan.io/address/0x4a1ee35f7a41b72c65ac429ec92c1221be78404c). The claiming period ended on 2024-04-05 12:00:00 UTC.
 
 User allocation: Liquidation points were converted to token allocation by normalizing each share based on the minimum and maximum values of points claimed. The result was a distribution where the holder of the most points would receive double the allocation of the holder of the least points.
 
@@ -32,7 +32,7 @@ Token share: 12.5%
 
 Number of eligible addresses: 265
 
-Description: Addresses that registered on the TLX website before 2024-03-03 00:00:00 UTC.
+Description: Addresses that registered on the [TLX website](https://tlx.fi/) before 2024-03-03 00:00:00 UTC.
 
 User allocation: Equal distribution
 
